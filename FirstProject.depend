@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653913705 source:c:\users\support\desktop\new_semester\data_ahmad\radi's slides\projects\firstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1653913705 source:c:\users\support\new_semester\data_ahmad\radi's slides\projects\firstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
